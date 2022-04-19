@@ -1,0 +1,28 @@
+.inputTitle {
+    margin-top: 15px;
+    width: 100%;
+    height: 30px;
+}
+
+.inputContent {
+    margin-top: 15px;
+    width: 100%;
+    min-height: 100px;
+    max-height: 400px;
+    resize: vertical;
+}
+
+.formBtns {
+    margin: 20px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.formBtn {
+    height: 30px;
+    width: 100px;
+    margin-left: 15px;
+    background-color: #dae9fb;
+    border-color: #dae9fb;
+    border-radius: 5px;
+}

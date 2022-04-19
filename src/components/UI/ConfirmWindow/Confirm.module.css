@@ -1,0 +1,19 @@
+.btnWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.cancelBtn {
+    width: 100px;
+    height: 40px;
+    border-color: rgb(228, 148, 148);
+    background-color: rgb(228, 148, 148);
+}
+
+.confirmBtn {
+    width: 100px;
+    height: 40px;
+    background-color: #dae9fb;
+    border-color: #dae9fb;
+}

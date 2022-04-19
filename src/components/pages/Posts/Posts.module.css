@@ -1,0 +1,36 @@
+.postsWrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.postContent {}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f5f5f5;
+    position: sticky;
+    z-index: 100;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.createPostBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    background-color: #dae9fb;
+    border-color: #dae9fb;
+    margin: 40px;
+}
